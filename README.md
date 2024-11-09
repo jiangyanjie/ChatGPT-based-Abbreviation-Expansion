@@ -4,7 +4,7 @@ Evaluating and Improving ChatGPT-Based Expansion of Abbreviations
 
 **How to obtain source code?**
 
-The replication package can be downloaded from https://github.com/publicSE/ChatGPT-based-Expansion
+The replication package can be downloaded from https://github.com/jiangyanjie/ChatGPT-based-Abbreviation-Expansion
 
 **What does the replication package contain?**
 
